@@ -13,7 +13,7 @@ perfoming analysis on kickstarter data to uncover trends and potential insights 
 
 Lastly I determined the relationship between outcomes based on goals. For this data I created a new worksheet with different goal markers, number of outcomes based on campaign success(barring the still live campaigns), and percentage of success relative to the amount of total campaigns in each goal grouping. Luckily I experienced little to no issue with my analysis, however the mildy repetative nature of the formulas used in finding outcomes was mostly circumvented by making each data point static and copying it over to a different outcome and simply editing the eoutcome to match.
 
-![Outcomes_Vs_Goals](Outcomes_Vs_goals.png)
+![Outcomes_Vs_Goals](resources/Outcomes_Vs_Goals.png)
 
 ## Results
 
