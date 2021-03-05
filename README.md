@@ -7,7 +7,7 @@ perfoming analysis on kickstarter data to uncover trends and potential insights 
 
   In assisting Louise with her endeavors to launch a successful kickstarter, I was tasked with looking further into the relationship between the outcomes with goals, and launchdate in mind. First in determining the relationship between outcomes and the launchdate for each theater campaign a pivot table was used in focusing the results. With the properties being: rows as the date created conversion, columns as the outcomes, values as the count of outcomes, and filter by type of category and year started.
 
-![theater_vs_outcomes](theater_vs_outcomes.png)
+![theater_vs_outcomes](kickstarter-analysis/theater_vs_outcomes.png)
 
 ### Analysis Cont.
 
